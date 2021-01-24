@@ -1,0 +1,11 @@
+.appContainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.navBarSectionContainer{
+    display: flex;
+}
+
+
+
